@@ -10,7 +10,7 @@ $.get(
             var url = user.substring(user.lastIndexOf("(")+1, user.lastIndexOf(")"));
             $("#census-list").append("<li class='census-item'><a href="+url+">"+name+"</a></li>");
         });
-        var census_count = census_md.length - 2;
+        var census_count = census_md.length - 1;
         $("#census-count").html(census_count+" Participants:");
     }
 );

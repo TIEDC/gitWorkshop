@@ -11,7 +11,7 @@ This census has a live webpage [here](https://cutwell.github.io/gitWorkshop), it
 ### Contributing
 Fork this project and add your username + profile link to the [Census](https://github.com/TIEDC/gitWorkshop) list below, then make a Pull Request to add your name to this repository like so..
 ```markdown
-[Cutwell](https://github.com/TIEDC)
+[userName](https://github.com/userName)
 ```
 
 ### Census
