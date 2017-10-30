@@ -1,5 +1,5 @@
 $.get(
-    "https://raw.githubusercontent.com/Cutwell/Hacktoberfest-Census/master/README.md",
+    "https://raw.githubusercontent.com/TIEDC/gitWorkshop/master/README.md",
     function(file) {
         var census_md = file.split("### Census")[1].split("\n");
         census_md.map((user) => {
@@ -11,6 +11,6 @@ $.get(
             $("#census-list").append("<li class='census-item'><a href="+url+">"+name+"</a></li>");
         });
         var census_count = census_md.length - 2;
-        $("#census-count").html(census_count+" Contributors:");
+        $("#census-count").html(census_count+" Participants:");
     }
 );
