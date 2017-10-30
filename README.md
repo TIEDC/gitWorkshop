@@ -21,3 +21,4 @@ Fork this project and add your username + profile link to the [Census](https://g
  - [uditpilania](https://github.com/uditpilania)
  - [ishangupta06](https://github.com/ishangupta06)
  - [ashishbhardwaj](https://github.com/aceash98)
+ - [samyakjain](https://github.com/samayak1997)
