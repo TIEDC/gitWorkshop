@@ -25,3 +25,4 @@ Fork this project and add your username + profile link to the [Census](https://g
  - [rajatpuri25](https://github.com/rajatpuri25)
  - [ashishbhardwaj](https://github.com/aceash98)
  - [samyakjain](https://github.com/samayak1997 )
+ - [Rohitgarg253](https://github.com/Rohitgarg253)
