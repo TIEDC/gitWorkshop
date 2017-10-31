@@ -1,3 +1,7 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
 body {
 	margin: 0em;
 	padding: 0em;
@@ -9,16 +13,13 @@ body {
 a {
   text-decoration: none;
 }
-a:hover {
-  text-decoration: underline;
-}
 br {
   line-height: 3em;
 }
 .fill {
-	height: 100%;
+	/* height: 100%;
 	width: 100%;
-	position: relative;
+	position: relative; */
 }
 .center {
 	display: block;
@@ -29,10 +30,6 @@ br {
 .top {
 	background-color: #ff8764;
 	height: 100vh;
-}
-.bottom {
-	background-color: #fff;
-	margin: 1em;
 }
 .banner {
 	height: auto;
@@ -67,12 +64,20 @@ br {
 
 }
 .census-item {
-  font-size: 1em;
-  float:left;
-  padding: 0.2em;
-  padding-right: 2em;
+	padding: 10px 15px;
+	display: inline-block;
 }
-ul.items li:nth-child(3n+4) {
-  clear:left;
-  float:left;
+.census-item:hover{
+	background-color: rgba(255,255,255,0.2);
+	color: #ccc;
+}
+.census-item a{
+	color: #aaa;
+}
+.census-item a:hover{
+	color: #eee;
+}
+.bottom{
+	background-color: #171717;
+	color: #ccc;
 }
